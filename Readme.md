@@ -2,6 +2,32 @@
 
 ## Domain: All functions & activities within the Circle
 
+
+### Governance on github
+
+A governance aktuális igaz állapotának helye: https://github.com/cassus/c43-governance (master branch)
+
+#### Szinkron governance meetingen
+A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy governance meeting.
+
+
+#### Aszinkron governance feszültségből
+1. Nyiss új Issue-t (https://github.com/cassus/c43-governance/issues). Írd bele a feszültséged, ötleteidet ha van, tedd fel kérdéseid.
+2. A többiek olvassák, regálnak
+3. Ha megvan a javaslat akkor menj tovább a "Aszinkron governance javaslatból" lépésekkel.
+     Ha javaslat nélkül (pl. tudatosítással) feloldódott a feszültséged, akkor zárd le.
+
+#### Aszinkron governance javaslatból
+(ha van javaslatod, kezdheted rögtön innen a folyamatot)
+1. Nyiss új branch-et.
+2. Változtass a javaslatodnak megfelelően
+3. Indíts pull request-et, írd bele a feszültségedet.
+4. A körtagoknak egy hetük van véleményezni, ellenvetéseket megfogalazni.
+ - Támogatásod :+1: jellel fejezheted például ki
+ - Ellenvetésed :exclamation: jellel kezdd. Ezzel jelzed a javaslattevőnek, hogy a javaslata jelen formájában akadályozna egy szerep-küldetésed betöltésében
+5. Ha volt ellenvetés (vagy olyan ötletet kapnál amit szívesen beépítenél), változtatss a branch-en ahol a javaslatod van, ezzel újraindul a véleményezési idő.
+6. Ha nem volt ellenvetés, akkor fogadd el a pull request-et, ezzel a javaslatod bekerült a kormányzási anyagaink közé.
+
 ### Event policy
 
 Ha találkozót hívsz össze, készíts hozzá calendar meghívót is.
