@@ -130,9 +130,9 @@ Hetente minden projekedhez írj egy kommentet asana-ba, hogy milyen fejlődés t
 - Alapértelmezetten az előadó a facilitátor, de kérhet segítséget a Facilitátortól, ha igénye van rá.
 
 
-### Async Lomioo governance policy
+### Async Loomio governance policy
 
-- Governance feszültségek aszinkron feldolgozására a Lomioo szoftver használjuk.
+- Governance feszültségek aszinkron feldolgozására a Loomio szoftver használjuk.
 - A javaslatod a megnyitástól legalább 7 napot legyen nyitva az érvényességhez.
 - A javaslatodban konkrétan a policy/role/accountability változtatásokat fogalmazz meg. Ezeket a Titkár változtatás nélkül fogja átvezetni.
 - Ha nincs ellenvetés vagy új javaslatod a feszültségre, akkor írj a Titkárnak, hogy vezesse át a governance anyagok közé a döntést.
