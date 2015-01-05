@@ -95,31 +95,14 @@ Bármely partner javasolhatja, hogy egy másik Partner, vagy ő maga milyen szer
 Tartsunk választást negyedévente, hogy tanulási céllal rotáljuk a leadlink és az egyéb választott szerepeket betöltő személyt.
 
 
-### Szerepek betöltése Asana-ban policy
-
-A szerep-partner összerendelést Asana-ban kezeljük.
-A szerep "projekt" "Member"-jei töltik be a szerepet.
-
-
 ### Integratív döntéshozással költsük a kör pénzét policy
 
 Integratív döntéshozással költsük a kör pénzét. Online is mehet, a governance-hez hasonlóan.
-
-### Asana a policy gyűjtemény helye
-
-"Projekt" a GCC-nek is. (::C43 Alapkör)
-Ott felsoroljuk a doméneket
-Domének mellé rendelve a policy-kat.
 
 
 ### Havi tagdíj policy
 
 500-5000 Ft intervallumban válaszható hogy havonta mennyivel járulnak hozzá a tagok a közös kasszához, amit be is kell fizetni
-
-
-### Heti status update policy
-
-Hetente minden projekedhez írj egy kommentet asana-ba, hogy milyen fejlődés történt. Ha nincs előrelépés, akkor írd azt.
 
 
 ### Kutató alkalmak Policy
