@@ -5,14 +5,14 @@
 
 ### Governance on github
 
-A governance aktuális igaz állapotának helye: https://github.com/cassus/c43-governance (master branch)
+A governance aktuális igaz állapotának helye: https://github.com/circle43/c43-governance/ (master branch)
 
 #### Szinkron governance meetingen
 A titkár commit-olja a változásokat, a commit üzenetbe írd bele, hogy governance meeting.
 
 
 #### Aszinkron governance feszültségből
-1. Nyiss új Issue-t (https://github.com/cassus/c43-governance/issues). Írd bele a feszültséged, ötleteidet ha van, tedd fel kérdéseid.
+1. Nyiss új Issue-t (https://github.com/circle43/c43-governance/issues). Írd bele a feszültséged, ötleteidet ha van, tedd fel kérdéseid.
 2. A többiek olvassák, regálnak
 3. Ha megvan a javaslat akkor menj tovább a "Aszinkron governance javaslatból" lépésekkel.
      Ha javaslat nélkül (pl. tudatosítással) feloldódott a feszültséged, akkor zárd le.
