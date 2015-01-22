@@ -129,6 +129,11 @@ Hetente minden projekedhez írj egy kommentet asana-ba, hogy milyen fejlődés t
 - alkalmak elején agenda building után 5p-ben lehet pitchelni új témákat
 - Alapértelmezetten az előadó a facilitátor, de kérhet segítséget a Facilitátortól, ha igénye van rá.
 
+### Játékok a találkozó elején Policy
+
+- Minden találkozó elején Szabolcs egy 5 perces játékot mutat be, ami segít a csapatnak megérkezni, jelen lenni, energiával telítődni.
+- A játék után a résztvevők visszajelzést adnak, hogy milyennek tartják a játékot.
+- Szabolcs a kipróbált játékokat dokumentálja.
 
 ### Async Loomio governance policy
 
